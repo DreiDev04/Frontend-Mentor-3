@@ -218,7 +218,7 @@ body {
     -ms-flex-order: 1;
     -webkit-order: 1;
     order: 1;
-    padding: 5% 0 5%  5%;
+    padding: 5%;
   }
 
   .container .img_container .overlay{
