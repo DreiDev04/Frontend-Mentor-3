@@ -115,7 +115,7 @@ body {
 
 .container .img_container{
   border-radius: 10px 10px 0 0;
-  background: url(/images/image-header-mobile.jpg);
+  background: url(images/image-header-mobile.jpg);
   background-size: cover;
   width: 100%;
   min-height: 300px;
@@ -218,7 +218,7 @@ body {
     -ms-flex-order: 1;
     -webkit-order: 1;
     order: 1;
-    padding: 5%;
+    padding: 5% 0 5%  5%;
   }
 
   .container .img_container .overlay{
