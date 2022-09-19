@@ -197,8 +197,6 @@ body {
   }
 
   .container .img_container {
-    background: url(/images/image-header-desktop.jpg);
-    background-size: cover;
     -webkit-box-ordinal-group: 2;
     -moz-box-ordinal-group: 2;
     -ms-flex-order: 2;
